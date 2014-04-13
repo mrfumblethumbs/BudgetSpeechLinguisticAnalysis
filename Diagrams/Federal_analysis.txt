@@ -1,0 +1,192 @@
+[1] "Total number of documents analysed in dataset  Federal  :  43"
+       eigenvalue percentage of variance cumulative percentage of variance
+dim 1   2.857e-01              6.755e+00                             6.755
+dim 2   1.850e-01              4.372e+00                            11.127
+dim 3   1.561e-01              3.690e+00                            14.817
+dim 4   1.491e-01              3.524e+00                            18.341
+dim 5   1.455e-01              3.440e+00                            21.781
+dim 6   1.372e-01              3.244e+00                            25.025
+dim 7   1.342e-01              3.173e+00                            28.198
+dim 8   1.259e-01              2.976e+00                            31.174
+dim 9   1.238e-01              2.927e+00                            34.101
+dim 10  1.196e-01              2.828e+00                            36.929
+dim 11  1.148e-01              2.713e+00                            39.642
+dim 12  1.121e-01              2.649e+00                            42.291
+dim 13  1.112e-01              2.628e+00                            44.919
+dim 14  1.078e-01              2.549e+00                            47.468
+dim 15  1.068e-01              2.525e+00                            49.993
+dim 16  1.046e-01              2.473e+00                            52.466
+dim 17  1.018e-01              2.406e+00                            54.872
+dim 18  1.005e-01              2.375e+00                            57.247
+dim 19  9.845e-02              2.327e+00                            59.575
+dim 20  9.794e-02              2.315e+00                            61.890
+dim 21  9.679e-02              2.288e+00                            64.178
+dim 22  9.449e-02              2.234e+00                            66.411
+dim 23  9.213e-02              2.178e+00                            68.589
+dim 24  9.056e-02              2.141e+00                            70.730
+dim 25  8.813e-02              2.083e+00                            72.813
+dim 26  8.683e-02              2.052e+00                            74.866
+dim 27  8.416e-02              1.989e+00                            76.855
+dim 28  8.200e-02              1.938e+00                            78.794
+dim 29  8.012e-02              1.894e+00                            80.688
+dim 30  7.968e-02              1.884e+00                            82.571
+dim 31  7.491e-02              1.771e+00                            84.342
+dim 32  7.416e-02              1.753e+00                            86.095
+dim 33  7.388e-02              1.746e+00                            87.841
+dim 34  7.311e-02              1.728e+00                            89.570
+dim 35  7.100e-02              1.678e+00                            91.248
+dim 36  7.027e-02              1.661e+00                            92.909
+dim 37  6.797e-02              1.607e+00                            94.516
+dim 38  6.402e-02              1.513e+00                            96.029
+dim 39  6.279e-02              1.484e+00                            97.514
+dim 40  5.367e-02              1.269e+00                            98.783
+dim 41  5.083e-02              1.202e+00                            99.984
+dim 42  6.687e-04              1.581e-02                           100.000
+dim 43  1.431e-32              3.383e-31                           100.000
+      Con_1979.txt Con_1985.txt Con_1986.txt Con_1987.txt Con_1988.txt Con_1989.txt Con_2006.txt
+ [1,] "tax"        "government" "tax"        "tax"        "tax"        "tax"        "canadians" 
+ [2,] "energy"     "tax"        "government" "economic"   "economic"   "government" "government"
+ [3,] "government" "canadians"  "cent"       "government" "government" "canada"     "speaker"   
+ [4,] "cent"       "economic"   "canada"     "canada"     "growth"     "debt"       "tax"       
+ [5,] "canada"     "growth"     "billion"    "canadians"  "economy"    "billion"    "budget"    
+ [6,] "oil"        "budget"     "spending"   "economy"    "world"      "cent"       "canadian"  
+ [7,] "prices"     "canada"     "budget"     "deficit"    "canada"     "measures"   "canada"    
+ [8,] "price"      "increase"   "growth"     "fiscal"     "canadians"  "economic"   "million"   
+ [9,] "billion"    "billion"    "canadian"   "cent"       "canadian"   "income"     "support"   
+[10,] "canadian"   "measures"   "canadians"  "growth"     "fiscal"     "sales"      "federal"   
+[11,] "1980"       "jobs"       "program"    "program"    "jobs"       "budget"     "help"      
+[12,] "budget"     "actions"    "measures"   "progress"   "trade"      "canadians"  "billion"   
+[13,] "deficit"    "debt"       "business"   "billion"    "deficit"    "program"    "care"      
+[14,] "economic"   "cent"       "fiscal"     "system"     "income"     "continue"   "families"  
+[15,] "increases"  "deficit"    "income"     "continue"   "system"     "federal"    "cent"      
+[16,] "measures"   "effective"  "jobs"       "income"     "progress"   "million"    "effective" 
+[17,] "growth"     "sector"     "programs"   "reform"     "spending"   "rates"      "child"     
+[18,] "increase"   "private"    "system"     "rates"      "agreement"  "fiscal"     "country"   
+[19,] "capital"    "system"     "deficit"    "198788"     "business"   "programs"   "income"    
+[20,] "federal"    "federal"    "financial"  "sales"      "cent"       "spending"   "providing" 
+      Con_2007.txt  Con_2008.txt Con_2009.txt Con_2010.txt Con_2011.txt Con_2012.txt  Con_2013.txt    
+ [1,] "canada"      "canada"     "canada"     "canada"     "canada"     "canada"      "canada"        
+ [2,] "canadians"   "speaker"    "action"     "government" "canadian"   "canadians"   "canadians"     
+ [3,] "jobs"        "budget"     "economic"   "jobs"       "government" "jobs"        "government"    
+ [4,] "government"  "tax"        "canadian"   "canadians"  "global"     "government"  "canadian"      
+ [5,] "term"        "billion"    "canadians"  "budget"     "jobs"       "term"        "job"           
+ [6,] "economic"    "people"     "plan"       "canadian"   "economy"    "economic"    "plan"          
+ [7,] "country"     "canadians"  "help"       "growth"     "economic"   "plan"        "jobs"          
+ [8,] "plan"        "million"    "government" "businesses" "canadians"  "country"     "growth"        
+ [9,] "create"      "country"    "economy"    "economy"    "growth"     "create"      "economic"      
+[10,] "economy"     "help"       "businesses" "global"     "plan"       "growth"      "measures"      
+[11,] "growth"      "canadian"   "provide"    "plan"       "term"       "economy"     "tax"           
+[12,] "ensure"      "funding"    "tax"        "tax"        "business"   "ensure"      "commitment"    
+[13,] "world"       "advantage"  "jobs"       "country"    "stability"  "world"       "skills"        
+[14,] "businesses"  "fiscal"     "families"   "spending"   "taxes"      "businesses"  "support"       
+[15,] "investments" "plan"       "global"     "help"       "businesses" "investments" "world"         
+[16,] "program"     "world"      "support"    "action"     "countries"  "canadian"    "building"      
+[17,] "canadian"    "health"     "projects"   "economic"   "financial"  "creating"    "country"       
+[18,] "creating"    "children"   "recession"  "recession"  "fiscal"     "program"     "infrastructure"
+[19,] "security"    "families"   "relief"     "business"   "provide"    "security"    "prosperity"    
+[20,] "age"         "helping"    "billion"    "create"     "support"    "age"         "term"          
+      Lib_1966.txt   Lib_1968.txt Lib_1969.txt Lib_1970.txt Lib_1971.txt   Lib_1972.txt    Lib_1973.txt
+ [1,] "tax"          "tax"        "million"    "million"    "tax"          "tax"           "tax"       
+ [2,] "increase"     "income"     "fiscal"     "fiscal"     "income"       "income"        "income"    
+ [3,] "economic"     "canada"     "tariff"     "credit"     "system"       "economy"       "budget"    
+ [4,] "capital"      "fiscal"     "tax"        "budgetary"  "capital"      "canada"        "government"
+ [5,] "fiscal"       "million"    "economy"    "growth"     "canadian"     "canadians"     "provinces" 
+ [6,] "canada"       "canadian"   "reductions" "budget"     "government"   "government"    "cent"      
+ [7,] "cent"         "percent"    "increase"   "economic"   "cent"         "measures"      "measures"  
+ [8,] "income"       "provinces"  "prices"     "increase"   "reform"       "growth"        "inflation" 
+ [9,] "rate"         "rates"      "budget"     "prices"     "rate"         "canadian"      "increase"  
+[10,] "government"   "board"      "budgetary"  "revenues"   "corporations" "cost"          "jobs"      
+[11,] "million"      "increase"   "costs"      "government" "changes"      "jobs"          "prices"    
+[12,] "economy"      "proposed"   "price"      "increases"  "economy"      "increase"      "system"    
+[13,] "investment"   "budget"     "cent"       "net"        "gains"        "provide"       "federal"   
+[14,] "time"         "economic"   "government" "rate"       "taxpayers"    "fiscal"        "basic"     
+[15,] "expenditures" "companies"  "canada"     "cent"       "canada"       "manufacturing" "economic"  
+[16,] "revenues"     "current"    "economic"   "hear"       "personal"     "tonight"       "growth"    
+[17,] "provincial"   "revenue"    "effect"     "1969"       "taxes"        "time"          "rate"      
+[18,] "national"     "total"      "canadian"   "197071"     "million"      "cent"          "reduction" 
+[19,] "account"      "insurance"  "country"    "canada"     "business"     "million"       "taxes"     
+[20,] "budget"       "reserves"   "october"    "cash"       "canadians"    "propose"       "time"      
+      Lib_1974.txt    Lib_1975.txt Lib_1976.txt   Lib_1977.txt   Lib_1978.txt  Lib_1981.txt  Lib_1983.txt 
+ [1,] "tax"           "government" "government"   "tax"          "tax"         "tax"         "recovery"   
+ [2,] "cent"          "tax"        "cent"         "business"     "cent"        "rates"       "tax"        
+ [3,] "income"        "canada"     "tax"          "inflation"    "increase"    "inflation"   "canadians"  
+ [4,] "canada"        "increase"   "rate"         "income"       "income"      "canadians"   "government" 
+ [5,] "measures"      "oil"        "fiscal"       "policy"       "rate"        "income"      "special"    
+ [6,] "government"    "federal"    "growth"       "credit"       "credit"      "government"  "investment" 
+ [7,] "increase"      "economy"    "unemployment" "government"   "investment"  "economic"    "million"    
+ [8,] "inflation"     "cost"       "increase"     "prices"       "measures"    "growth"      "private"    
+ [9,] "rate"          "prices"     "canada"       "investment"   "taxes"       "rate"        "federal"    
+[10,] "federal"       "cent"       "inflation"    "capital"      "canada"      "budget"      "program"    
+[11,] "prices"        "price"      "economic"     "cent"         "canadians"   "cent"        "canada"     
+[12,] "canadians"     "costs"      "policy"       "economic"     "costs"       "restraint"   "budget"     
+[13,] "economy"       "income"     "canadian"     "growth"       "government"  "development" "employment" 
+[14,] "measure"       "measures"   "changes"      "measures"     "growth"      "billion"     "projects"   
+[15,] "canadian"      "rate"       "economy"      "rate"         "sales"       "lower"       "canadian"   
+[16,] "million"       "inflation"  "program"      "budget"       "trade"       "federal"     "billion"    
+[17,] "savings"       "employment" "firms"        "canadians"    "budget"      "reduce"      "cent"       
+[18,] "fiscal"        "public"     "prices"       "unemployment" "competitive" "system"      "sector"     
+[19,] "international" "economic"   "income"       "canada"       "development" "canada"      "increase"   
+[20,] "propose"       "million"    "price"        "canadian"     "million"     "changes"     "development"
+      Lib_1984.txt Lib_1990.txt Lib_1991.txt Lib_1992.txt Lib_1994.txt Lib_1995.txt   Lib_1996.txt
+ [1,] "tax"        "government" "government" "budget"     "government" "government"   "government"
+ [2,] "government" "billion"    "budget"     "government" "budget"     "budget"       "canadians" 
+ [3,] "canadians"  "deficit"    "economic"   "canadians"  "business"   "canadians"    "tax"       
+ [4,] "business"   "economic"   "canadians"  "canada"     "canadians"  "tax"          "system"    
+ [5,] "economic"   "spending"   "canada"     "cent"       "tax"        "system"       "budget"    
+ [6,] "budget"     "tax"        "tax"        "tax"        "jobs"       "billion"      "support"   
+ [7,] "cent"       "canada"     "cent"       "growth"     "reform"     "canada"       "canada"    
+ [8,] "jobs"       "debt"       "speech"     "economic"   "canada"     "spending"     "economy"   
+ [9,] "provide"    "growth"     "spending"   "speech"     "speech"     "fiscal"       "time"      
+[10,] "private"    "economy"    "plan"       "economy"    "system"     "country"      "country"   
+[11,] "growth"     "program"    "inflation"  "spending"   "social"     "provinces"    "health"    
+[12,] "pension"    "canadians"  "recovery"   "cut"        "program"    "ensure"       "fiscal"    
+[13,] "investment" "inflation"  "growth"     "business"   "spending"   "canadian"     "future"    
+[14,] "sector"     "plan"       "federal"    "capital"    "fiscal"     "cent"         "jobs"      
+[15,] "security"   "programs"   "fiscal"     "inflation"  "growth"     "reform"       "parents"   
+[16,] "support"    "1984"       "public"     "action"     "minister"   "deficit"      "spending"  
+[17,] "income"     "budget"     "programs"   "income"     "canadian"   "program"      "billion"   
+[18,] "recovery"   "cent"       "debt"       "million"    "deficit"    "unemployment" "child"     
+[19,] "assistance" "control"    "lower"      "1992"       "economic"   "business"     "income"    
+[20,] "canadian"   "reduced"    "program"    "billion"    "insurance"  "insurance"    "pension"   
+      Lib_1997.txt Lib_1998.txt  Lib_1999.txt Lib_2000.txt Lib_2001.txt     Lib_2003.txt     Lib_2004.txt 
+ [1,] "canada"     "canadians"   "health"     "tax"        "canada"         "canada"         "canada"     
+ [2,] "speaker"    "canada"      "canadians"  "speaker"    "budget"         "government"     "government" 
+ [3,] "government" "speaker"     "budget"     "budget"     "speaker"        "budget"         "budget"     
+ [4,] "canadians"  "tax"         "canada"     "canadians"  "provide"        "million"        "canadians"  
+ [5,] "budget"     "education"   "speaker"    "canada"     "billion"        "health"         "speaker"    
+ [6,] "children"   "budget"      "tax"        "economy"    "canadians"      "canadians"      "health"     
+ [7,] "health"     "government"  "care"       "cent"       "economy"        "economic"       "communities"
+ [8,] "million"    "students"    "billion"    "government" "million"        "tax"            "education"  
+ [9,] "time"       "country"     "research"   "children"   "research"       "canadian"       "billion"    
+[10,] "country"    "time"        "government" "plan"       "security"       "care"           "provide"    
+[11,] "tax"        "opportunity" "million"    "time"       "canadian"       "economy"        "canadian"   
+[12,] "future"     "access"      "debt"       "canadian"   "government"     "fiscal"         "social"     
+[13,] "jobs"       "debt"        "system"     "economic"   "cent"           "billion"        "economy"    
+[14,] "deficit"    "children"    "country"    "health"     "economic"       "growth"         "people"     
+[15,] "education"  "support"     "knowledge"  "income"     "people"         "support"        "children"   
+[16,] "provide"    "canadian"    "canadian"   "country"    "time"           "improve"        "families"   
+[17,] "billion"    "child"       "resources"  "taxes"      "health"         "five"           "future"     
+[18,] "support"    "provide"     "announced"  "million"    "infrastructure" "2003"           "million"    
+[19,] "system"     "financial"   "time"       "child"      "funding"        "accountability" "care"       
+[20,] "economy"    "skills"      "benefit"    "debt"       "support"        "investments"    "economic"   
+      Lib_2005.txt
+ [1,] "canada"    
+ [2,] "budget"    
+ [3,] "canadians" 
+ [4,] "billion"   
+ [5,] "care"      
+ [6,] "tax"       
+ [7,] "health"    
+ [8,] "federal"   
+ [9,] "canadian"  
+[10,] "five"      
+[11,] "government"
+[12,] "million"   
+[13,] "world"     
+[14,] "commitment"
+[15,] "economic"  
+[16,] "funding"   
+[17,] "help"      
+[18,] "people"    
+[19,] "provide"   
+[20,] "aboriginal"
